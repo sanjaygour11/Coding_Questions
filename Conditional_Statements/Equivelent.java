@@ -1,0 +1,13 @@
+package Conditional_Statements;
+
+import java.util.Scanner;
+
+public class Equivelent {
+    public static void main(String[] args) {
+
+        Scanner scan=new Scanner(System.in);
+
+        int n=scan.nextInt();
+        System.out.println((char)n);
+    }
+}
